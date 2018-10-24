@@ -70,21 +70,22 @@
         "company":"Freelance Web development & IT Counsulting",
         "title":"Web Developer",
         "years":"Jan 2018 - Present",
-        "description":"Built and maintained various web projects utlizing various tech stacks including Ruby on Rails, Javascript, jQuery, Python, HTML5, CSS3. Also, consulted managed cloud(focus on server latency), digital markeitng and UaaS services.",
-        "description2": "Oinker- App aggregates data from multiple API and allows users to plan event based on budget"
+        "description":"Built and maintained various web projects utilizing various tech stacks including Ruby on Rails, Javascript, jQuery, Python, HTML5, CSS3. Also, consulted managed cloud(focus on server latency), digital marketing and UaaS services.",
+        "description2": "Built Oinker - Date planning application aggreates data from multiple restaurant and event ticketing APIs and allows users to plan an event based on budget."
       },
       {
         "company":"Inspirtec Group of Companies",
         "title":"Enterprise Key Account Manager",
         "years":"Oct 2017 - June 2018",
-        "description":"Inspiretec specializes in building custom web application for companies in loyalty & travel industry. My role focused on scoping new web & applicaton projects($1+ million projects) within assigend enterprise accounts. Responsible for day-to day relationship of accounts and relay change requests, SoW(statement of work) to developemnt teams and project managers."
+        "description":"Inspiretec specializes in building custom web applications for companies in loyalty & travel industry. My role focused on scoping new web & applications projects($1+ million projects) within assigned enterprise accounts. Responsible for the day-to-day relationship of accounts and relay change requests, SoW(statement of work) to development teams and project managers."
+
       },
       {
         "company":"Ecritel Cloud",
         "title":"Cloud Consultant/ Sales Manager",
         "years":"Oct 2017 - June 2018",
         "description":"Focus on consulting managed cloud services, CDN and hosting to various dev shops in North America. Ecritel was a direct competion to AWS and Rackspace - with value prop of fastest cloud in Canada with global infrasctructure. Also, reperesented company at various trade shows in North America."
-      }
+    }    
 
     ],
     "skills":[
