@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name":,
+    "occupation":,
+    "description":,
+    "image":"",
+    "bio":,
+    "email": "",
+    "phone": "",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      },
+      {
+        "name":"",
+        "url":"",
+        "className":""
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      },
+      {
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"",
+        "title":" ",
+        "years":"",
+        "description":""
+      },
+      {
+        "company":"",
+        "title":"",
+        "years":,
+        "description":
+
+      }
+    ],
+    "skills":[
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":,
+        "category":,
+        "image":,
+        "url":
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":"",
+        "category":"",
+        "image":"",
+        "url":""
+      },
+      {
+        "title":,
+        "category":,
+        "image":,
+        "url":
+      }
+    ]
+  },
+
+}
