@@ -9,7 +9,7 @@ class About extends Component {
       var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
+      var province = this.props.data.address.province;
       var zip = this.props.data.address.zip;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
@@ -32,7 +32,7 @@ class About extends Component {
                   <p className="address">
 						   <span>{name}</span><br />
 						   <span>{street}<br />
-						         {city} {state}, {zip}
+						         {city} {province}, {zip}
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
