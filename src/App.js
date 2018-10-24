@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import About from './Components/About';
+import Header from './Components/Header';
 import logo from './logo.svg';
 import $ from 'jquery';
 import './App.css';
@@ -38,7 +39,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
+        <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
 
       </div>
