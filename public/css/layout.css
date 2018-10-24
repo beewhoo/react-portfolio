@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social  {
-  background-color: rgba(0, 0, 0, .5);
+  background-color: rgba(0, 0, 0, .3);
   display: inline;
   padding: 10px;
  }
@@ -103,6 +103,23 @@ header .social  {
  header .social li a {
    color:#fff;
  }
+
+ .fa-facebook {
+   color:#3b5998;
+ }
+ .fa-twitter {
+   color:#1dcaff;
+ }
+ .fa-google-plus {
+   color:#d34836;
+ }
+ .fa-linkedin {
+   color:#4875B4;
+ }
+ .fa-instagram {
+   color: #cd486b;
+ }
+
 
 
 /* scrolldown link */
@@ -851,23 +868,6 @@ call-to-action .button {
 }
 
 
-/* Twitter Feed */
-#twitter {
-   margin-top: 12px;
-   padding: 0;
-}
-#twitter li {
-   margin: 6px 0px 12px 0;
-   line-height: 30px;
-}
-#twitter li span {
-   display: block;
-}
-#twitter li b a {
-   font: 13px/36px 'opensans-regular', Sans-serif;
-   color: #474747 !important;
-   border: none;
-}
 
 
 /* ------------------------------------------------------------------ */
@@ -923,6 +923,8 @@ footer .social-links li {
     margin-left: 42px;
     color: #F06000;
 }
+
+
 
 footer .social-links li:first-child { margin-left: 0; }
 
