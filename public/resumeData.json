@@ -50,7 +50,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"hello",
+    "skillmessage":"",
     "education":[
       {
         "school":"Bitmaker General Assembly",
@@ -85,37 +85,52 @@
         "title":"Cloud Consultant/ Sales Manager",
         "years":"Oct 2017 - June 2018",
         "description":"Focus on consulting managed cloud services, CDN and hosting to various dev shops in North America. Ecritel was a direct competion to AWS and Rackspace - with value prop of fastest cloud in Canada with global infrasctructure. Also, reperesented company at various trade shows in North America."
-    }    
+    }
 
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"devicon-git-plain colored"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"devicon-html5-plain-wordmark colored"
+
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"devicon-css3-plain-wordmark colored"
+
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name":"devicon-javascript-plain colored"
+
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name":"devicon-react-original-wordmark colored"
+
       },
       {
-        "name":"VueJs",
-        "level":"50%"
+        "name":"devicon-ruby-plain-wordmark colored"
+
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"devicon-rails-plain-wordmark colored"
+
+      },
+      {
+        "name":"devicon-postgresql-plain-wordmark colored"
+
+      },
+      {
+        "name":"devicon-jquery-plain-wordmark colored"
+
+      },
+      {
+        "name":"devicon-heroku-plain-wordmark colored"
+
+      },
+      {
+        "name":"devicon-atom-original colored"
+
       }
     ]
   },
