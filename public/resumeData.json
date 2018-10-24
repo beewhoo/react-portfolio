@@ -1,21 +1,21 @@
 {
   "main": {
-    "name":"Bibek Thapa",
+    "fullname":"Bibek Thapa",
+    "firstname":"Bibek",
     "occupation":"Web Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpeg",
-    "bio":"Hi, I'm Bibek, an enthusiastic web developer with an interest in UX/UI design. After spending 7+ years in the commercial side of websites & apps, I decided to trust my instinct and pursue a career in development. My passion for design and development now has evolved into a brand-new career and an exciting adventure. In during this learning journey, I have proved myself to be a committed learner. The ability to constantly be learning and developing new skills is an important factor in my passion. P.S. I love almost anything under the sun, apart from Real Madrid and slow wifi.",
+    "bio":"Hi, I'm Bibek, an enthusiastic web developer with an interest in UX/UI design. After spending 7+ years in the commercial side of websites & apps, I decided to trust my instinct and pursue a career in development. My passion for design and development now has evolved into a brand-new career and an exciting adventure. In during my learning journey, I have proved myself to be a committed learner. The ability to constantly be learning and developing new skills is an important factor in my passion. P.S. I love almost anything under the sun, apart from Real Madrid and slow wifi.",
     "contactmessage":"If you're interested in chatting or want more information about what I've been working on, I'd love to hear from you!",
     "email": "bst_bib@hotmail.com",
     "phone": "416-662-5980",
     "address":{
-      "street":"2302-600 Fleet Street",
       "city":"Toronto",
       "province":"Ontario",
-      "zip": "M5V 1B7"
+      "country": "Canada"
     },
     "website": "http://www.bibekslab.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://docs.google.com/document/d/1oBurYMj8t6qgI45iROZ1WGo4hsd757V8eofpUmu5SI8/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -50,7 +50,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University?",

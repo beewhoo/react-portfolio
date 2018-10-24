@@ -4,13 +4,12 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      var name = this.props.data.name;
+      var fullname = this.props.data.fullname;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var province = this.props.data.address.province;
-      var zip = this.props.data.address.zip;
+      var country = this.props.data.address.country;
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
@@ -30,9 +29,9 @@ class About extends Component {
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
                   <p className="address">
-						   <span>{name}</span><br />
-						   <span>{street}<br />
-						         {city} {province}, {zip}
+						   <span>{fullname}</span><br />
+						   <span>
+						         {city},{province},{country}
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
