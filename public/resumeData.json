@@ -50,34 +50,42 @@
     ]
   },
   "resume":{
-    "skillmessage":"",
+    "skillmessage":"hello",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Bitmaker General Assembly",
+        "degree":"Full Stack Web Development Immersive",
+        "graduated":"May 2018",
+        "description":"Programing Fundamentals, Product Development, Front-end Web Development, Back-End Web Development and Team Collaboration Strategies"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University Of Toronto",
+        "degree":"Bachelors of Arts Graduate",
+        "graduated":"May 2011",
+        "description":"Psychology Major"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Freelance Web development & IT Counsulting",
+        "title":"Web Developer",
+        "years":"Jan 2018 - Present",
+        "description":"Built and maintained various web projects utlizing various tech stacks including Ruby on Rails, Javascript, jQuery, Python, HTML5, CSS3. Also, consulted managed cloud(focus on server latency), digital markeitng and UaaS services.",
+        "description2": "Oinker- App aggregates data from multiple API and allows users to plan event based on budget"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Inspirtec Group of Companies",
+        "title":"Enterprise Key Account Manager",
+        "years":"Oct 2017 - June 2018",
+        "description":"Inspiretec specializes in building custom web application for companies in loyalty & travel industry. My role focused on scoping new web & applicaton projects($1+ million projects) within assigend enterprise accounts. Responsible for day-to day relationship of accounts and relay change requests, SoW(statement of work) to developemnt teams and project managers."
+      },
+      {
+        "company":"Ecritel Cloud",
+        "title":"Cloud Consultant/ Sales Manager",
+        "years":"Oct 2017 - June 2018",
+        "description":"Focus on consulting managed cloud services, CDN and hosting to various dev shops in North America. Ecritel was a direct competion to AWS and Rackspace - with value prop of fastest cloud in Canada with global infrasctructure. Also, reperesented company at various trade shows in North America."
       }
+
     ],
     "skills":[
       {
