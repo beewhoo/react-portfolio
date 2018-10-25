@@ -12,7 +12,7 @@ class Contact extends Component {
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
       var networks= this.props.data.social.map(function(network){
-        return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
+        return <li key={network.name}><a href={network.url} target='_blank'><i className={network.className}></i></a></li>
       })
     }
 

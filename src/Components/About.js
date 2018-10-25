@@ -4,14 +4,8 @@ class About extends Component {
   render() {
 
     if(this.props.data){
-      var fullname = this.props.data.fullname;
       var profilepic= "images/"+this.props.data.image;
       var bio = this.props.data.bio;
-      var city = this.props.data.address.city;
-      var province = this.props.data.address.province;
-      var country = this.props.data.address.country;
-      var phone= this.props.data.phone;
-      var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
     }
 
@@ -26,7 +20,7 @@ class About extends Component {
 
             <p>{bio}</p>
             <div className="row">
-              
+
                <div className="columns download">
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
