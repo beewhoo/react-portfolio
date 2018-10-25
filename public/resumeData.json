@@ -137,34 +137,46 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Pokemon GIPHY generator",
+        "category":"Rails -Combines two API calls to generate Pokemon Gifs",
+        "image":"pokemon.png",
+        "url":"https://immense-badlands-80835.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Random Color Picker",
+        "category":"React - Generate random colors",
+        "image":"color-picker.png",
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Tic Tac Toe",
+        "category":"React- Tic-Tac-Toe (cheat: game history enabled)",
+        "image":"tictac.jpg",
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Weather App",
+        "category": "React- Search for weather forecast by city",
+        "image":"weather.jpg",
+        "url":""
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Oinker",
+        "category":"Rails - Date planning app pairs events and restaurants based on budget",
+        "image":"oinker.png",
+        "url":""
+      },
+      {
+        "title":"Seat Yourself",
+        "category":"Rails - Clone of OpenTable",
+        "image":"seatyourself.png",
+        "url":""
+      },
+      {
+        "title":"movies",
+        "category":"Responsive layout movie trailer website(concept)",
+        "image":"movies.png",
+        "url":""
       }
     ]
   }

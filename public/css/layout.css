@@ -473,7 +473,7 @@ ul#nav li a {
 	transition: opacity 0.3s ease-in-out;
 
    position: absolute;
-   top: 50%;
+   top: 80%;
    left: 50%;
    margin-left: -15px;
    margin-top: -15px;
@@ -494,14 +494,16 @@ ul#nav li a {
 
 /* on hover */
 .portfolio-item:hover .overlay {
-	opacity: 1;
-	-moz-opacity: 1;
+	opacity: .8;
+	-moz-opacity: .8;
 	filter:alpha(opacity=100);
+  background-color: black;
 }
 .portfolio-item:hover .link-icon {
    opacity: 1;
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
+
 }
 
 /* popup modal */
