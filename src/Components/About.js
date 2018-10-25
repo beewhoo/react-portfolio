@@ -26,17 +26,7 @@ class About extends Component {
 
             <p>{bio}</p>
             <div className="row">
-               <div className="columns contact-details">
-                  <h2>Contact Details</h2>
-                  <p className="address">
-						   <span>{fullname}</span><br />
-						   <span>
-						         {city},{province},{country}
-                   </span><br />
-						   <span>{phone}</span><br />
-                     <span>{email}</span>
-					   </p>
-               </div>
+              
                <div className="columns download">
                   <p>
                      <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>

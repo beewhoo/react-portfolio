@@ -3,6 +3,7 @@ import About from './Components/About';
 import Header from './Components/Header';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
+import Contact from './Components/Contact';
 import logo from './logo.svg';
 import $ from 'jquery';
 import './App.css';
@@ -44,6 +45,7 @@ class App extends Component {
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
+        <Contact data={this.state.resumeData.main}/>
 
       </div>
     );

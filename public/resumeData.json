@@ -19,32 +19,32 @@
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/",
+        "url":"https://www.facebook.com/beewhooo",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/beewhoo",
         "className":"fa fa-twitter"
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/",
+        "url":"https://plus.google.com/u/0/110439604172520450352",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://linkedin.com/in/bibekthapa",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/",
+        "url":"https://www.instagram.com/bee.whoo/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"https://github.com/beewhoo",
         "className":"fa fa-github"
       }
     ]
