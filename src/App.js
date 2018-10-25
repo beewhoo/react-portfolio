@@ -4,7 +4,6 @@ import Header from './Components/Header';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio';
 import Contact from './Components/Contact';
-import logo from './logo.svg';
 import $ from 'jquery';
 import './App.css';
 

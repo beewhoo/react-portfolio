@@ -146,37 +146,37 @@
         "title":"Random Color Picker",
         "category":"React - Generate random colors",
         "image":"color-picker.png",
-        "url":""
+        "url":"https://react-color-gen.herokuapp.com/"
       },
       {
         "title":"Tic Tac Toe",
         "category":"React- Tic-Tac-Toe (cheat: game history enabled)",
         "image":"tictac.jpg",
-        "url":""
+        "url":"https://tictac-r3act.herokuapp.com/"
       },
       {
         "title":"Weather App",
         "category": "React- Search for weather forecast by city",
         "image":"weather.jpg",
-        "url":""
+        "url":"https://w3ath3r-r3act.herokuapp.com/"
       },
       {
         "title":"Oinker",
         "category":"Rails - Date planning app pairs events and restaurants based on budget",
         "image":"oinker.png",
-        "url":""
+        "url":"http://www.oinker.ca"
       },
       {
         "title":"Seat Yourself",
         "category":"Rails - Clone of OpenTable",
         "image":"seatyourself.png",
-        "url":""
+        "url":"https://github.com/beewhoo/seat_yourself"
       },
       {
         "title":"movies",
         "category":"Responsive layout movie trailer website(concept)",
         "image":"movies.png",
-        "url":""
+        "url":"https://beewhoo.github.io/responsive-movies/"
       }
     ]
   }
