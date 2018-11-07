@@ -5,7 +5,7 @@
     "occupation":"Web Developer",
     "description":"I love solving complex problems in innovative and creative ways, and I am currently seeking to join a team that is collaborative and passionate about their work",
     "image":"profilepic.jpeg",
-    "bio":"After spending 7+ years in the commercial side of websites & apps, I decided to trust my instinct and pursue a career in development. My passion for design and development now has evolved into a brand-new career and an exciting adventure. In during my learning journey, I have proved myself to be a committed learner. The ability to constantly be learning and developing new skills is an important factor in my passion. P.S. I love almost anything under the sun, apart from Real Madrid and slow wifi.",
+    "bio":"I keep learning every day and continue to be driven to further understand and apply my knowledge across as many digital canvases as I can. The ability to constantly be learning and developing new skills is an important factor in my passion for development, and I would love to bring this enthusiasm to you. P.S I love almost anything under the sun, apart from Real Madrid and slow wifi.",
     "contactmessage":"If you're interested in chatting or want more information about what I've been working on, I'd love to hear from you!",
     "email": "hello@bibekslab.com",
     "phone": "416-662-5980",
@@ -67,17 +67,24 @@
     ],
     "work":[
       {
-        "company":"Freelance Web development & IT Counsulting",
+        "company":"Freelance",
         "title":"Web Developer",
         "years":"Jan 2018 - Present",
-        "description":"Built and maintained various web projects utilizing various tech stacks including Ruby on Rails, Javascript, jQuery, Python, HTML5, CSS3. Also, consulted managed cloud(focus on server latency), digital marketing and UaaS services.",
-        "description2": "Built Oinker - Date planning application aggreates data from multiple restaurant and event ticketing APIs and allows users to plan an event based on budget."
+        "description":"Built and maintained various web projects utilizing various tech stacks including Ruby on Rails,  React, Javascript, jQuery,  HTML5, CSS3. ",
+        "description2": "Designed and developed 20+ websites, using HTML/CSS, Javascript, Ruby On Rails, React.js ",
+        "description4": "Translated client’s UX wireframes and mockups into responsive, interactive features using JavaScript & React",
+        "description3": "Built date planning application from scratch with multiple API integration(Yelp, SeatGeek, Eventbrite, social login), using Ruby On Rails, Javascript, HTML/CSS",
+        "description5": "(inProgress)Workng on revamping UI and backend for a customer facing directory website(www.Zhaboom.com)."
+
+
       },
       {
-        "company":"Inspirtec Group of Companies",
-        "title":"Enterprise Key Account Manager",
+        "company":"Inspirtec",
+        "title":"Technology Consultant/Key Account Manager",
         "years":"Oct 2017 - June 2018",
-        "description":"Inspiretec specializes in building custom web applications for companies in loyalty & travel industry. My role focused on scoping new web & applications projects($1+ million projects) within assigned enterprise accounts. Responsible for the day-to-day relationship of accounts and relay change requests, SoW(statement of work) to development teams and project managers."
+        "description":"Focus on developing new business for a software development/digital agency. Responsible for contract negotiations ($1 million+). Day-to day relationship of enterprise accounts.",
+        "description2":"Project: Travel booking web/mobile application for Bank Of Montreal customers.  Coordinating scoping, technical support, UAT and live deployments of various features for the web application. Team consisted of UX, Project Delivery, Developers, Product and Upper Management. "
+
 
       },
       {

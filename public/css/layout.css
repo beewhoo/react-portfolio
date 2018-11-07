@@ -307,6 +307,14 @@ ul#nav li a {
    margin-top: 6px;
 }
 
+.list-description{
+  margin: 0;
+}
+
+.desc-head {
+  color: black;
+  font-weight: bold;
+}
 .skills li {
   font-size: 50px;
   display: -webkit-inline-box;
